@@ -15,10 +15,10 @@ Programming Team:
 
 ## Design:
 
-<!-- <img    src="../../images/Clippy.jpg" -->
-<!--         title="Clippy" -->
-<!--         width="60%" -->
-<!--         height="60%"   /> -->
+<img    src="../../images/Clippy-2.jpg"
+        title="Clippy"
+        width="60%"
+        height="60%"   />
 
 <br>
 
