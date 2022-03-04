@@ -17,10 +17,10 @@ Programming Team:
 
 ## Design:
 
-<!-- <img    src="../../images/Scorpio-1.jpg" -->
-<!--         title="Scorpio" -->
-<!--         width="60%" -->
-<!--         height="60%"   /> -->
+<img    src="../../images/Fusion-1.jpg"
+        title="Scorpio"
+        width="60%"
+        height="60%"   />
 
 <br>
 

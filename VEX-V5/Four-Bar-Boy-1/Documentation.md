@@ -15,14 +15,14 @@ Programming Team:
 
 ## Design:
 
-<!-- <img    src="../../images/Scorpio-1.jpg" -->
-<!--         title="Clippy" -->
-<!--         width="60%" -->
-<!--         height="60%"   /> -->
+<img    src="../../images/Clippy-2.jpg"
+        title="Clippy"
+        width="60%"
+        height="60%"   />
 
 <br>
 
-Fusion was designed with the goal of picking up and moving mobile goals as optimally as possible. With the forklift apparatus at the front, Fusion is capable of quickly lifting mobile goals off the ground and putting them on top of the tipping point. Additionally, the robot has a clip at the back that allows it to drag around a second base. The design is meant for a quick in-and-out strategy, where the driver steals mobile goals from the opposing team in order to score them.
+<!-- Leaving this here for Javi to explain how Clippy works since he knows about it better than I do -->
 
 <br>
 
@@ -38,13 +38,13 @@ Fusion was designed with the goal of picking up and moving mobile goals as optim
 
 | Motor | Function |
 |-------|-------------|
-| Motor 1 | Left Drivetrain |
-| Motor 2 | Right Drivetrain |
-| Motor 3 | Left Arm |
-| Motor 4 | Right Arm |
-| Motor 5 | Rear |
-| Motor 7 | Clip |
-| Motor 8 | Forklift |
+| Motor 1 | Left Drivetrain 18:1 |
+| Motor 2 | Right Drivetrain 18:1 |
+| Motor 3 | Left Arm 18:1 |
+| Motor 4 | Right Arm 18:1 |
+| Motor 5 | Rear 18:1 |
+| Motor 7 | Clip 36:1 |
+| Motor 8 | Forklift 18:1 |
 <br>
 
 ### Structural Components:
@@ -55,9 +55,9 @@ Fusion was designed with the goal of picking up and moving mobile goals as optim
 
 | Structure | Function |
 |-------|-------------|
-| Drivetrain |  |
-| Arm |  |
-| Rear |  |
-| Forklift |  |
+| Drivetrain | Move robot |
+| Arm | Lift mobile goal |
+| Rear | Pull a mobile goal |
+| Forklift | Hold mobile goal |
 
 <br>
